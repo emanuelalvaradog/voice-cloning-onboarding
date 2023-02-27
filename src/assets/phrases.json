@@ -1,0 +1,1276 @@
+[
+  {
+    "id": 1,
+    "text": "La innovación y la creatividad son esenciales para resolver los problemas más apremiantes del mundo.",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "text": "A medida que la tecnología avanza, es importante asegurarnos de que se utilice de manera responsable y ética para el bienestar de la humanidad.",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "La compasión y la empatía son fundamentales para crear una sociedad más justa y equitativa para todos.",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "text": "La colaboración y el trabajo en equipo son esenciales para lograr objetivos ambiciosos y hacer del mundo un lugar mejor para todos.",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "text": "Debemos recordar que cada persona que conocemos está luchando una batalla que desconocemos, y es importante ser amables y compasivos en todo momento.",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "text": "La paciencia y la perseverancia son fundamentales para superar los obstáculos y lograr nuestros sueños.",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "text": "La educación es la clave para construir un futuro mejor y más brillante para nosotros y para las generaciones venideras.",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "text": "El respeto y la tolerancia son fundamentales para crear una sociedad en la que todas las personas sean valoradas y respetadas por igual.",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "text": "La verdad y la honestidad son esenciales para construir relaciones significativas y duraderas con los demás.",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "text": "Debemos recordar que nuestras acciones tienen un impacto en el mundo que nos rodea, y es nuestra responsabilidad asegurarnos de que ese impacto sea positivo y duradero.",
+    "completed": false
+  },
+
+  {
+    "id": 11,
+    "text": "La belleza de la vida radica en las pequeñas cosas que a menudo pasamos por alto.",
+    "completed": false
+  },
+  {
+    "id": 12,
+    "text": "La felicidad es una elección que debemos hacer todos los días.",
+    "completed": false
+  },
+  {
+    "id": 13,
+    "text": "El amor y la amistad son dos de las cosas más importantes en la vida.",
+    "completed": false
+  },
+  {
+    "id": 14,
+    "text": "La paciencia y la perseverancia son la clave para superar los desafíos y alcanzar nuestros objetivos.",
+    "completed": false
+  },
+  {
+    "id": 15,
+    "text": "Debemos recordar que cada uno de nosotros tiene el poder de hacer una diferencia positiva en el mundo que nos rodea.",
+    "completed": false
+  },
+  {
+    "id": 16,
+    "text": "La empatía y la compasión son cualidades fundamentales que nos permiten conectarnos con los demás y construir relaciones significativas.",
+    "completed": false
+  },
+  {
+    "id": 17,
+    "text": "La gratitud es una actitud que nos permite apreciar las cosas buenas de la vida y encontrar la felicidad en lo que tenemos.",
+    "completed": false
+  },
+  {
+    "id": 18,
+    "text": "La educación es la clave para construir un futuro mejor para nosotros y para las generaciones venideras.",
+    "completed": false
+  },
+  {
+    "id": 19,
+    "text": "La tecnología tiene el poder de cambiar el mundo, pero es importante que la usemos de manera responsable y ética.",
+    "completed": false
+  },
+  {
+    "id": 20,
+    "text": "Debemos recordar que cada uno de nosotros es único y especial, y tenemos mucho que ofrecer al mundo.",
+    "completed": false
+  },
+
+  {
+    "id": 21,
+    "text": "La vida es un regalo y debemos aprovechar cada momento.",
+    "completed": false
+  },
+  {
+    "id": 22,
+    "text": "La honestidad y la integridad son esenciales para construir relaciones duraderas y significativas.",
+    "completed": false
+  },
+  {
+    "id": 23,
+    "text": "La bondad y la compasión son cualidades que nos hacen humanos y nos permiten conectarnos con los demás de manera significativa.",
+    "completed": false
+  },
+  {
+    "id": 24,
+    "text": "El perdón es una actitud que nos permite liberarnos del pasado y avanzar hacia un futuro mejor.",
+    "completed": false
+  },
+  {
+    "id": 25,
+    "text": "El cambio comienza con nosotros, y cada uno de nosotros tiene el poder de hacer una diferencia positiva en el mundo.",
+    "completed": false
+  },
+  {
+    "id": 26,
+    "text": "Debemos recordar que la verdadera belleza viene de adentro.",
+    "completed": false
+  },
+  {
+    "id": 27,
+    "text": "La perseverancia y la determinación son esenciales para alcanzar nuestros objetivos.",
+    "completed": false
+  },
+  {
+    "id": 28,
+    "text": "La gratitud es una actitud que nos permite encontrar la felicidad en las cosas más simples de la vida.",
+    "completed": false
+  },
+  {
+    "id": 29,
+    "text": "La empatía y la compasión son fundamentales para construir una sociedad más justa y equitativa para todos.",
+    "completed": false
+  },
+  {
+    "id": 30,
+    "text": "La educación es la clave para construir un futuro mejor para nosotros y para las generaciones venideras.",
+    "completed": false
+  },
+
+  {
+    "id": 31,
+    "text": "La vida está llena de altibajos, pero es nuestra actitud ante ellos lo que determina nuestro éxito.",
+    "completed": false
+  },
+  {
+    "id": 32,
+    "text": "La paciencia es una virtud que nos permite superar los desafíos y alcanzar nuestros objetivos a largo plazo.",
+    "completed": false
+  },
+  {
+    "id": 33,
+    "text": "El respeto y la tolerancia son fundamentales para construir una sociedad en la que todas las personas sean valoradas y respetadas por igual.",
+    "completed": false
+  },
+  {
+    "id": 34,
+    "text": "La honestidad y la transparencia son esenciales para construir relaciones de confianza y respeto con los demás.",
+    "completed": false
+  },
+  {
+    "id": 35,
+    "text": "La empatía y la compasión son cualidades fundamentales que nos permiten conectar con los demás y construir relaciones significativas.",
+    "completed": false
+  },
+  {
+    "id": 36,
+    "text": "Debemos recordar que cada uno de nosotros tiene el poder de hacer una diferencia positiva en el mundo, sin importar cuán pequeñas sean nuestras acciones.",
+    "completed": false
+  },
+  {
+    "id": 37,
+    "text": "La educación es la clave para construir una sociedad más justa y equitativa para todos.",
+    "completed": false
+  },
+  {
+    "id": 38,
+    "text": "La gratitud es una actitud que nos permite encontrar la felicidad en lo que tenemos, en lugar de buscarla en lo que no tenemos.",
+    "completed": false
+  },
+  {
+    "id": 39,
+    "text": "La creatividad y la innovación son esenciales para resolver los problemas más apremiantes del mundo.",
+    "completed": false
+  },
+  {
+    "id": 40,
+    "text": "La humildad y la humildad son cualidades importantes que nos permiten aprender de los demás y crecer como personas.",
+    "completed": false
+  },
+
+  {
+    "id": 41,
+    "text": "La vida es corta, y debemos asegurarnos de aprovechar cada momento al máximo.",
+    "completed": false
+  },
+  {
+    "id": 42,
+    "text": "La resiliencia es la clave para superar los obstáculos y convertirlos en oportunidades para crecer y aprender.",
+    "completed": false
+  },
+  {
+    "id": 43,
+    "text": "La pasión y el entusiasmo son esenciales para alcanzar nuestras metas y hacer realidad nuestros sueños.",
+    "completed": false
+  },
+  {
+    "id": 44,
+    "text": "La felicidad no es algo que se pueda buscar, sino que se encuentra en el momento presente.",
+    "completed": false
+  },
+  {
+    "id": 45,
+    "text": "El cambio es inevitable, pero es nuestra actitud ante él lo que determina nuestro éxito en la vida.",
+    "completed": false
+  },
+  {
+    "id": 46,
+    "text": "La educación no es solo para adquirir conocimientos, sino también para desarrollar habilidades y valores que nos permitan tener éxito en la vida.",
+    "completed": false
+  },
+  {
+    "id": 47,
+    "text": "La honestidad y la integridad son esenciales para construir relaciones de confianza y respeto con los demás.",
+    "completed": false
+  },
+  {
+    "id": 48,
+    "text": "Debemos recordar que la empatía y la compasión son cualidades fundamentales que nos permiten conectarnos con los demás de manera significativa.",
+    "completed": false
+  },
+  {
+    "id": 49,
+    "text": "La paciencia y la perseverancia son esenciales para alcanzar nuestros objetivos y hacer realidad nuestros sueños.",
+    "completed": false
+  },
+  {
+    "id": 50,
+    "text": "La gratitud es una actitud que nos permite apreciar las cosas buenas de la vida y encontrar la felicidad en lo que tenemos.",
+    "completed": false
+  },
+
+  {
+    "id": 51,
+    "text": "La mejor manera de predecir el futuro es inventarlo. Debemos ser creativos y estar dispuestos a tomar riesgos si queremos lograr algo significativo.",
+    "completed": false
+  },
+  {
+    "id": 52,
+    "text": "El éxito en la vida no se mide por lo que logramos, sino por los obstáculos que superamos en el camino. La perseverancia y la dedicación son las claves para alcanzar nuestras metas.",
+    "completed": false
+  },
+  {
+    "id": 53,
+    "text": "Si queremos hacer del mundo un lugar mejor, debemos ser la diferencia que queremos ver en el mundo. Cada uno de nosotros tiene el poder de hacer una diferencia positiva en el mundo que nos rodea.",
+    "completed": false
+  },
+  {
+    "id": 54,
+    "text": "La verdadera grandeza no se mide por el dinero, el poder o el prestigio, sino por la forma en que tratamos a los demás. La compasión y la empatía son las cualidades que nos permiten hacer del mundo un lugar más amable y acogedor.",
+    "completed": false
+  },
+  {
+    "id": 55,
+    "text": "El aprendizaje continuo es la clave para el éxito en el mundo moderno. Debemos estar dispuestos a aprender nuevas habilidades y adaptarnos a los cambios si queremos tener éxito en la vida.",
+    "completed": false
+  },
+  {
+    "id": 56,
+    "text": "La verdadera felicidad no proviene de las cosas materiales que tenemos, sino de las relaciones significativas que construimos con los demás. Debemos recordar que el amor y la amistad son las cosas más valiosas de la vida.",
+    "completed": false
+  },
+  {
+    "id": 57,
+    "text": "La confianza en uno mismo es esencial para lograr el éxito en cualquier cosa que hagamos. Debemos creer en nosotros mismos y en nuestras habilidades si queremos alcanzar nuestras metas.",
+    "completed": false
+  },
+  {
+    "id": 58,
+    "text": "La diversidad es lo que hace que nuestra sociedad sea rica y vibrante. Debemos celebrar nuestras diferencias y trabajar juntos para construir un mundo más inclusivo y justo para todos.",
+    "completed": false
+  },
+  {
+    "id": 59,
+    "text": "La innovación es la clave para superar los desafíos del mañana. Debemos ser valientes y estar dispuestos a pensar fuera de la caja si queremos encontrar soluciones innovadoras a los problemas más apremiantes de la sociedad.",
+    "completed": false
+  },
+  {
+    "id": 60,
+    "text": "La educación es la clave para construir un futuro más brillante para las próximas generaciones. Debemos asegurarnos de que todos tengan acceso a una educación de calidad si queremos construir un mundo mejor para todos.",
+    "completed": false
+  },
+
+  {
+    "id": 61,
+    "text": "La documentación es esencial para mantener la integridad y la escalabilidad de cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 62,
+    "text": "La automatización de procesos es clave para mejorar la eficiencia y la productividad de cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 63,
+    "text": "La seguridad es una consideración crítica en cualquier sistema, y debe ser una preocupación constante.",
+    "completed": false
+  },
+  {
+    "id": 64,
+    "text": "La modularidad y la escalabilidad son fundamentales para el diseño de sistemas complejos.",
+    "completed": false
+  },
+  {
+    "id": 65,
+    "text": "La usabilidad es una consideración importante al diseñar cualquier sistema para asegurar la adopción por parte de los usuarios finales.",
+    "completed": false
+  },
+  {
+    "id": 66,
+    "text": "El monitoreo constante es esencial para garantizar el rendimiento y la disponibilidad de cualquier sistema en producción.",
+    "completed": false
+  },
+  {
+    "id": 67,
+    "text": "La arquitectura de sistemas es fundamental para garantizar la eficiencia, escalabilidad y fiabilidad de cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 68,
+    "text": "La capacidad de respuesta es fundamental para garantizar la satisfacción del usuario y la adopción de cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 69,
+    "text": "La resiliencia es esencial para garantizar que cualquier sistema pueda recuperarse de interrupciones y errores.",
+    "completed": false
+  },
+  {
+    "id": 70,
+    "text": "El diseño centrado en el usuario es esencial para garantizar que cualquier sistema sea accesible y fácil de usar para una amplia gama de usuarios finales.",
+    "completed": false
+  },
+
+  {
+    "id": 71,
+    "text": "El mantenimiento preventivo es fundamental para garantizar la estabilidad y el rendimiento de cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 72,
+    "text": "La gestión de configuración es esencial para garantizar la coherencia y la integridad de cualquier sistema a lo largo del tiempo.",
+    "completed": false
+  },
+  {
+    "id": 73,
+    "text": "La virtualización y el contenedorización son tecnologías clave para la implementación y el despliegue de sistemas en la nube.",
+    "completed": false
+  },
+  {
+    "id": 74,
+    "text": "La gestión de errores es esencial para garantizar la estabilidad y la disponibilidad de cualquier sistema en producción.",
+    "completed": false
+  },
+  {
+    "id": 75,
+    "text": "La estandarización de los procesos es esencial para garantizar la coherencia y la escalabilidad de cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 76,
+    "text": "La interoperabilidad es esencial para garantizar que diferentes sistemas puedan comunicarse y trabajar juntos de manera efectiva.",
+    "completed": false
+  },
+  {
+    "id": 77,
+    "text": "La calidad del código es esencial para garantizar la escalabilidad, el rendimiento y la facilidad de mantenimiento de cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 78,
+    "text": "El análisis y la visualización de datos son esenciales para la toma de decisiones basadas en datos en cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 79,
+    "text": "La gestión de la infraestructura es esencial para garantizar la disponibilidad y el rendimiento de cualquier sistema.",
+    "completed": false
+  },
+  {
+    "id": 80,
+    "text": "La flexibilidad es esencial para garantizar que cualquier sistema pueda adaptarse a los cambios en el entorno empresarial.",
+    "completed": false
+  },
+
+  {
+    "id": 81,
+    "text": "La virtualización es una tecnología clave para la creación de ambientes aislados y flexibles en sistemas informáticos.",
+    "completed": false
+  },
+  {
+    "id": 82,
+    "text": "La automatización de pruebas es esencial para garantizar la calidad y la estabilidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 83,
+    "text": "La gestión de la configuración es esencial para mantener la integridad y la consistencia de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 84,
+    "text": "El monitoreo y la alerta temprana son esenciales para garantizar el rendimiento y la disponibilidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 85,
+    "text": "La seguridad de la información es esencial para proteger los datos y garantizar la integridad y la privacidad de los usuarios.",
+    "completed": false
+  },
+  {
+    "id": 86,
+    "text": "La escalabilidad es esencial para garantizar que cualquier sistema informático pueda manejar el crecimiento y la expansión a largo plazo.",
+    "completed": false
+  },
+  {
+    "id": 87,
+    "text": "La disponibilidad es esencial para garantizar que cualquier sistema informático esté disponible para los usuarios cuando lo necesiten.",
+    "completed": false
+  },
+  {
+    "id": 88,
+    "text": "La gestión de errores es esencial para garantizar la estabilidad y la calidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 89,
+    "text": "La arquitectura de sistemas es esencial para garantizar la eficiencia, la escalabilidad y la flexibilidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 90,
+    "text": "La optimización del rendimiento es esencial para garantizar la velocidad y la capacidad de respuesta de cualquier sistema informático.",
+    "completed": false
+  },
+
+  {
+    "id": 91,
+    "text": "La separación de responsabilidades es esencial para garantizar la modularidad y la flexibilidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 92,
+    "text": "La arquitectura de microservicios es esencial para la creación de sistemas escalables y flexibles en sistemas informáticos.",
+    "completed": false
+  },
+  {
+    "id": 93,
+    "text": "La gestión de logs es esencial para la identificación y el diagnóstico de problemas en sistemas informáticos.",
+    "completed": false
+  },
+  {
+    "id": 94,
+    "text": "La estandarización de los procesos es esencial para la eficiencia y la escalabilidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 95,
+    "text": "La integración continua y la entrega continua son esenciales para la agilidad y la eficiencia en el desarrollo de sistemas informáticos.",
+    "completed": false
+  },
+  {
+    "id": 96,
+    "text": "La refactorización de código es esencial para mantener la calidad y la estabilidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 97,
+    "text": "La segmentación de red es esencial para la seguridad y la privacidad de los datos en sistemas informáticos.",
+    "completed": false
+  },
+  {
+    "id": 98,
+    "text": "La virtualización de redes es esencial para la creación de ambientes aislados y flexibles en sistemas informáticos.",
+    "completed": false
+  },
+  {
+    "id": 99,
+    "text": "La resiliencia es esencial para garantizar que cualquier sistema informático pueda recuperarse de interrupciones y errores.",
+    "completed": false
+  },
+  {
+    "id": 100,
+    "text": "La gestión de versiones es esencial para mantener la integridad y la consistencia de cualquier sistema informático a lo largo del tiempo.",
+    "completed": false
+  },
+
+  {
+    "id": 101,
+    "text": "La implementación de pruebas de integración es esencial para garantizar el correcto funcionamiento de los diferentes componentes de un sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 102,
+    "text": "La gestión de errores y el manejo de excepciones son esenciales para garantizar la estabilidad y la calidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 103,
+    "text": "La arquitectura de nube híbrida es esencial para la integración y la eficiencia de los sistemas informáticos en múltiples ambientes.",
+    "completed": false
+  },
+  {
+    "id": 104,
+    "text": "La separación de ambientes de desarrollo, prueba y producción es esencial para garantizar la estabilidad y la seguridad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 105,
+    "text": "La automatización de despliegues es esencial para la eficiencia y la escalabilidad de los sistemas informáticos en múltiples ambientes.",
+    "completed": false
+  },
+  {
+    "id": 106,
+    "text": "La integración de sistemas es esencial para la eficiencia y la eficacia de los sistemas informáticos en múltiples ambientes.",
+    "completed": false
+  },
+  {
+    "id": 107,
+    "text": "La gestión de bases de datos es esencial para la integridad y la consistencia de los datos en cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 108,
+    "text": "La seguridad de la red es esencial para la protección de los datos y la privacidad de los usuarios en cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 109,
+    "text": "La utilización de tecnologías de contenedorización es esencial para la eficiencia y la flexibilidad en la implementación de sistemas informáticos.",
+    "completed": false
+  },
+  {
+    "id": 110,
+    "text": "La adopción de tecnologías de inteligencia artificial es esencial para la optimización y la eficiencia en cualquier sistema informático.",
+    "completed": false
+  },
+
+  {
+    "id": 111,
+    "text": "La implementación de sistemas de monitoreo de rendimiento es esencial para garantizar el correcto funcionamiento de un sistema informático a largo plazo.",
+    "completed": false
+  },
+  {
+    "id": 112,
+    "text": "La estandarización de los procesos de desarrollo es esencial para la eficiencia y la escalabilidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 113,
+    "text": "La automatización de pruebas de rendimiento es esencial para la evaluación de la capacidad y la escalabilidad de cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 114,
+    "text": "La virtualización de servidores es esencial para la creación de ambientes aislados y flexibles en sistemas informáticos.",
+    "completed": false
+  },
+  {
+    "id": 115,
+    "text": "La implementación de sistemas de backup y recuperación es esencial para garantizar la integridad y la disponibilidad de los datos en cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 116,
+    "text": "La utilización de tecnologías de cómputo en la nube es esencial para la escalabilidad y la eficiencia en cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 117,
+    "text": "La implementación de sistemas de autenticación y autorización es esencial para la seguridad y la privacidad de los usuarios en cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 118,
+    "text": "La implementación de tecnologías de balanceo de carga es esencial para la eficiencia y la escalabilidad en cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 119,
+    "text": "La utilización de técnicas de minería de datos es esencial para la identificación y el análisis de patrones en los datos en cualquier sistema informático.",
+    "completed": false
+  },
+  {
+    "id": 120,
+    "text": "La implementación de técnicas de aprendizaje automático es esencial para la identificación de tendencias y patrones en los datos en cualquier sistema informático.",
+    "completed": false
+  },
+
+  {
+    "id": 121,
+    "text": "La exploración de datos es esencial para identificar patrones y tendencias en los conjuntos de datos de ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 122,
+    "text": "La limpieza de datos es un paso crucial en el preprocesamiento de los datos para la aplicación de técnicas de ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 123,
+    "text": "La selección de características es un paso esencial en la reducción de dimensionalidad de los datos en la ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 124,
+    "text": "La implementación de modelos de aprendizaje automático es esencial para la identificación de patrones en los datos y la realización de predicciones.",
+    "completed": false
+  },
+  {
+    "id": 125,
+    "text": "La validación cruzada es una técnica esencial para evaluar la eficacia de los modelos de aprendizaje automático en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 126,
+    "text": "La matriz de confusión es una herramienta esencial para la evaluación de la precisión y la eficacia de los modelos de aprendizaje automático en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 127,
+    "text": "La utilización de técnicas de redes neuronales es esencial para la identificación de patrones complejos en los datos en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 128,
+    "text": "La implementación de técnicas de clustering es esencial para la identificación de grupos y patrones en los datos en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 129,
+    "text": "La interpretación de los resultados es esencial para la evaluación y la comprensión de los modelos de aprendizaje automático en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 130,
+    "text": "La selección del modelo adecuado es un paso esencial para la realización de predicciones precisas en la ciencia de datos.",
+    "completed": false
+  },
+
+  {
+    "id": 131,
+    "text": "La utilización de técnicas de regresión es esencial para la identificación de relaciones y patrones en los datos en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 132,
+    "text": "La transformación de características es un paso esencial en el preprocesamiento de los datos para la aplicación de técnicas de ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 133,
+    "text": "La selección del conjunto de datos adecuado es un paso crucial para la realización de análisis de ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 134,
+    "text": "La utilización de técnicas de procesamiento de lenguaje natural es esencial para la identificación de patrones en los datos de texto en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 135,
+    "text": "La interpretación de los resultados de los modelos de aprendizaje automático es esencial para la toma de decisiones informadas en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 136,
+    "text": "La normalización de los datos es un paso esencial en el preprocesamiento de los datos para la aplicación de técnicas de ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 137,
+    "text": "La utilización de técnicas de análisis de series de tiempo es esencial para la identificación de patrones en los datos de series de tiempo en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 138,
+    "text": "La utilización de técnicas de análisis de redes es esencial para la identificación de patrones en los datos de redes en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 139,
+    "text": "La utilización de técnicas de clasificación es esencial para la identificación de grupos y patrones en los datos en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 140,
+    "text": "La utilización de técnicas de minería de textos es esencial para la identificación de patrones en los datos de texto en ciencia de datos.",
+    "completed": false
+  },
+
+  {
+    "id": 141,
+    "text": "La selección del algoritmo adecuado es un paso esencial para la realización de análisis de ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 142,
+    "text": "La normalización de los datos es esencial para la comparación de características en diferentes escalas en la ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 143,
+    "text": "La utilización de técnicas de reducción de dimensionalidad es esencial para la simplificación y la visualización de los datos en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 144,
+    "text": "La validación de modelos es un paso esencial para la evaluación de la eficacia de los modelos de aprendizaje automático en la ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 145,
+    "text": "La interpretación de los resultados de los modelos es esencial para la toma de decisiones informadas en la ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 146,
+    "text": "La utilización de técnicas de análisis de imágenes es esencial para la identificación de patrones en los datos de imágenes en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 147,
+    "text": "La utilización de técnicas de análisis de sentimiento es esencial para la identificación de patrones en los datos de texto y opiniones en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 148,
+    "text": "La utilización de técnicas de análisis de asociación es esencial para la identificación de relaciones entre características en los datos en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 149,
+    "text": "La utilización de técnicas de análisis de sentimientos es esencial para la identificación de patrones en los datos de texto y opiniones en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 150,
+    "text": "La utilización de técnicas de clasificación de texto es esencial para la identificación de patrones en los datos de texto en ciencia de datos.",
+    "completed": false
+  },
+
+  {
+    "id": 151,
+    "text": "La utilización de técnicas de análisis de texto es esencial para la identificación de patrones en los datos de texto en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 152,
+    "text": "La utilización de técnicas de análisis de datos no estructurados es esencial para la identificación de patrones en los datos de texto y multimedia en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 153,
+    "text": "La utilización de técnicas de análisis de datos geoespaciales es esencial para la identificación de patrones en los datos geográficos en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 154,
+    "text": "La utilización de técnicas de análisis de datos financieros es esencial para la identificación de patrones en los datos financieros en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 155,
+    "text": "La utilización de técnicas de análisis de datos de redes sociales es esencial para la identificación de patrones en los datos de redes sociales en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 156,
+    "text": "La utilización de técnicas de análisis de datos de transacciones es esencial para la identificación de patrones en los datos de transacciones en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 157,
+    "text": "La utilización de técnicas de aprendizaje no supervisado es esencial para la identificación de patrones desconocidos en los datos en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 158,
+    "text": "La utilización de técnicas de aprendizaje supervisado es esencial para la realización de predicciones precisas en la ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 159,
+    "text": "La utilización de técnicas de análisis de datos de clientes es esencial para la identificación de patrones en los datos de los clientes en ciencia de datos.",
+    "completed": false
+  },
+  {
+    "id": 160,
+    "text": "La utilización de técnicas de análisis de datos de tráfico web es esencial para la identificación de patrones en los datos de tráfico web en ciencia de datos.",
+    "completed": false
+  },
+
+  {
+    "id": 161,
+    "text": "La tecnología ha transformado la forma en que vivimos y trabajamos en el siglo XXI.",
+    "completed": false
+  },
+  {
+    "id": 162,
+    "text": "La globalización ha hecho posible la interconexión de las economías y las culturas de todo el mundo.",
+    "completed": false
+  },
+  {
+    "id": 163,
+    "text": "La educación es una herramienta esencial para el crecimiento personal y profesional en la vida moderna.",
+    "completed": false
+  },
+  {
+    "id": 164,
+    "text": "La salud es una prioridad importante en la vida de las personas, ya que influye en su bienestar y calidad de vida.",
+    "completed": false
+  },
+  {
+    "id": 165,
+    "text": "La ciencia y la tecnología han sido la fuerza impulsora detrás de muchas de las innovaciones que han transformado el mundo en el que vivimos.",
+    "completed": false
+  },
+  {
+    "id": 166,
+    "text": "La democracia es un sistema de gobierno en el que el poder reside en el pueblo y se ejerce a través de la participación ciudadana.",
+    "completed": false
+  },
+  {
+    "id": 167,
+    "text": "La sostenibilidad es un concepto cada vez más importante en el mundo moderno, ya que se relaciona con la preservación del medio ambiente y la garantía de un futuro sostenible.",
+    "completed": false
+  },
+  {
+    "id": 168,
+    "text": "La igualdad de oportunidades es esencial para garantizar que todas las personas tengan las mismas oportunidades en la vida.",
+    "completed": false
+  },
+  {
+    "id": 169,
+    "text": "La ética es una parte fundamental de la vida y los negocios, ya que influye en la forma en que se toman decisiones y se tratan a las personas.",
+    "completed": false
+  },
+  {
+    "id": 170,
+    "text": "La innovación es un motor importante para el crecimiento económico y el desarrollo en el mundo moderno.",
+    "completed": false
+  },
+
+  {
+    "id": 171,
+    "text": "La diversidad cultural es un rasgo distintivo de la humanidad, y nos enriquece como sociedad.",
+    "completed": false
+  },
+  {
+    "id": 172,
+    "text": "La cooperación internacional es esencial para abordar los desafíos globales que enfrenta la humanidad en el siglo XXI.",
+    "completed": false
+  },
+  {
+    "id": 173,
+    "text": "La creatividad y la innovación son clave para el éxito en la vida y en el trabajo.",
+    "completed": false
+  },
+  {
+    "id": 174,
+    "text": "La honestidad y la integridad son valores fundamentales que deben guiar nuestras acciones y decisiones en la vida.",
+    "completed": false
+  },
+  {
+    "id": 175,
+    "text": "La libertad individual es esencial para el desarrollo personal y la realización de los objetivos en la vida.",
+    "completed": false
+  },
+  {
+    "id": 176,
+    "text": "La resiliencia es un rasgo importante que nos ayuda a superar los obstáculos y las dificultades en la vida.",
+    "completed": false
+  },
+  {
+    "id": 177,
+    "text": "La justicia y la equidad son valores fundamentales que deben guiar nuestras acciones y decisiones en la vida.",
+    "completed": false
+  },
+  {
+    "id": 178,
+    "text": "La empatía y la compasión son rasgos importantes que nos ayudan a conectarnos con los demás y entender sus necesidades y preocupaciones.",
+    "completed": false
+  },
+  {
+    "id": 179,
+    "text": "La calidad de vida es un objetivo importante que debemos buscar en la vida, y está relacionada con el bienestar físico, emocional y social.",
+    "completed": false
+  },
+  {
+    "id": 180,
+    "text": "La cooperación y el trabajo en equipo son esenciales para lograr objetivos y superar desafíos en la vida.",
+    "completed": false
+  },
+
+  {
+    "id": 181,
+    "text": "El aprendizaje continuo es clave para el éxito en la vida y en el trabajo en el mundo moderno.",
+    "completed": false
+  },
+  {
+    "id": 182,
+    "text": "El respeto y la tolerancia son valores fundamentales que deben guiar nuestras relaciones con los demás en la vida.",
+    "completed": false
+  },
+  {
+    "id": 183,
+    "text": "El amor y la amistad son importantes para la felicidad y el bienestar emocional en la vida.",
+    "completed": false
+  },
+  {
+    "id": 184,
+    "text": "El cambio es una constante en la vida, y debemos aprender a adaptarnos y evolucionar para tener éxito.",
+    "completed": false
+  },
+  {
+    "id": 185,
+    "text": "La felicidad es un objetivo importante en la vida, y está relacionada con la satisfacción personal y el bienestar emocional.",
+    "completed": false
+  },
+  {
+    "id": 186,
+    "text": "La comunicación efectiva es esencial para las relaciones interpersonales y el éxito en el trabajo.",
+    "completed": false
+  },
+  {
+    "id": 187,
+    "text": "La curiosidad y la pasión por aprender son esenciales para el crecimiento personal y profesional en la vida.",
+    "completed": false
+  },
+  {
+    "id": 188,
+    "text": "La determinación y la perseverancia son rasgos importantes que nos ayudan a alcanzar nuestros objetivos en la vida.",
+    "completed": false
+  },
+  {
+    "id": 189,
+    "text": "El trabajo duro y la dedicación son claves para el éxito en la vida y en el trabajo.",
+    "completed": false
+  },
+  {
+    "id": 190,
+    "text": "La honestidad y la transparencia son fundamentales para construir relaciones de confianza con los demás en la vida.",
+    "completed": false
+  },
+
+  {
+    "id": 191,
+    "text": "La emprendeduría es esencial para la creación de empleo y el desarrollo económico en el mundo moderno.",
+    "completed": false
+  },
+  {
+    "id": 192,
+    "text": "La confianza en uno mismo es esencial para el éxito en la vida y en el trabajo.",
+    "completed": false
+  },
+  {
+    "id": 193,
+    "text": "La gratitud y el aprecio son importantes para el bienestar emocional y la felicidad en la vida.",
+    "completed": false
+  },
+  {
+    "id": 194,
+    "text": "La responsabilidad individual es clave para el bienestar y el éxito en la vida.",
+    "completed": false
+  },
+  {
+    "id": 195,
+    "text": "La pasión y el entusiasmo son esenciales para alcanzar la excelencia en cualquier área de la vida.",
+    "completed": false
+  },
+  {
+    "id": 196,
+    "text": "La paciencia y la tolerancia son rasgos importantes que nos ayudan a manejar las dificultades y los desafíos en la vida.",
+    "completed": false
+  },
+  {
+    "id": 197,
+    "text": "La disciplina y la autodisciplina son claves para el éxito en cualquier área de la vida.",
+    "completed": false
+  },
+  {
+    "id": 198,
+    "text": "La autoestima y el amor propio son esenciales para la confianza y el bienestar emocional en la vida.",
+    "completed": false
+  },
+  {
+    "id": 199,
+    "text": "La adaptabilidad es un rasgo importante que nos ayuda a manejar el cambio y la incertidumbre en la vida.",
+    "completed": false
+  },
+  {
+    "id": 200,
+    "text": "La creatividad y la originalidad son clave para el éxito en cualquier área de la vida.",
+    "completed": false
+  },
+
+  {
+    "id": 201,
+    "text": "La educación es un derecho humano fundamental y es esencial para el desarrollo personal y el crecimiento económico.",
+    "completed": false
+  },
+  {
+    "id": 202,
+    "text": "La confianza y el respeto son fundamentales en cualquier relación interpersonal y en cualquier entorno laboral.",
+    "completed": false
+  },
+  {
+    "id": 203,
+    "text": "El trabajo en equipo es esencial para el éxito en cualquier organización o proyecto, ya sea pequeño o grande.",
+    "completed": false
+  },
+  {
+    "id": 204,
+    "text": "La diversidad y la inclusión son clave para la innovación y el crecimiento económico en el mundo moderno.",
+    "completed": false
+  },
+  {
+    "id": 205,
+    "text": "La sostenibilidad es esencial para el bienestar a largo plazo de la humanidad y del planeta en el que vivimos.",
+    "completed": false
+  },
+  {
+    "id": 206,
+    "text": "La ética y la integridad son valores fundamentales que deben guiar nuestras acciones y decisiones en la vida y en el trabajo.",
+    "completed": false
+  },
+  {
+    "id": 207,
+    "text": "El liderazgo efectivo es esencial para el éxito en cualquier organización o proyecto, y se basa en la empatía, la comunicación y la visión.",
+    "completed": false
+  },
+  {
+    "id": 208,
+    "text": "La gestión del tiempo es esencial para el éxito en la vida y en el trabajo, y se basa en la planificación, la priorización y la disciplina.",
+    "completed": false
+  },
+  {
+    "id": 209,
+    "text": "La resolución de conflictos es esencial para cualquier relación interpersonal o entorno laboral, y se basa en la comunicación efectiva y la negociación.",
+    "completed": false
+  },
+  {
+    "id": 210,
+    "text": "El aprendizaje continuo es esencial para el crecimiento personal y profesional en la vida, y se basa en la curiosidad, la pasión y la disciplina.",
+    "completed": false
+  },
+
+  {
+    "id": 211,
+    "text": "La empatía y la compasión son esenciales para una sociedad justa y equitativa.",
+    "completed": false
+  },
+  {
+    "id": 212,
+    "text": "La curiosidad y la creatividad son clave para la innovación y el descubrimiento en cualquier área de la vida.",
+    "completed": false
+  },
+  {
+    "id": 213,
+    "text": "La colaboración y el diálogo son esenciales para la resolución de problemas y la toma de decisiones efectivas en cualquier entorno.",
+    "completed": false
+  },
+  {
+    "id": 214,
+    "text": "El pensamiento crítico y la resolución de problemas son habilidades clave para el éxito en cualquier carrera profesional.",
+    "completed": false
+  },
+  {
+    "id": 215,
+    "text": "La comunicación efectiva es esencial para cualquier relación interpersonal o entorno laboral exitoso.",
+    "completed": false
+  },
+  {
+    "id": 216,
+    "text": "La adaptabilidad y la flexibilidad son clave para el éxito en cualquier entorno de trabajo o situación de la vida.",
+    "completed": false
+  },
+  {
+    "id": 217,
+    "text": "La confianza y la integridad son valores fundamentales que deben guiar nuestras acciones y decisiones en la vida y en el trabajo.",
+    "completed": false
+  },
+  {
+    "id": 218,
+    "text": "La resiliencia y la perseverancia son esenciales para superar los desafíos y las dificultades en la vida.",
+    "completed": false
+  },
+  {
+    "id": 219,
+    "text": "El cuidado personal y el bienestar emocional son fundamentales para la salud mental y física a largo plazo.",
+    "completed": false
+  },
+  {
+    "id": 220,
+    "text": "La honestidad y la transparencia son fundamentales para la construcción de relaciones de confianza en cualquier entorno interpersonal o laboral.",
+    "completed": false
+  },
+
+  {
+    "id": 221,
+    "text": "La empatía es la clave para comprender a los demás y construir relaciones significativas en la vida.",
+    "completed": false
+  },
+  {
+    "id": 222,
+    "text": "El trabajo duro y la perseverancia son fundamentales para alcanzar el éxito en cualquier área de la vida.",
+    "completed": false
+  },
+  {
+    "id": 223,
+    "text": "La humildad y la modestia son valores esenciales para mantener relaciones saludables y productivas en cualquier entorno.",
+    "completed": false
+  },
+  {
+    "id": 224,
+    "text": "La confianza en uno mismo y la autoestima son fundamentales para alcanzar nuestras metas y objetivos en la vida.",
+    "completed": false
+  },
+  {
+    "id": 225,
+    "text": "La gratitud y la apreciación son clave para la felicidad y la satisfacción en la vida.",
+    "completed": false
+  },
+  {
+    "id": 226,
+    "text": "La cooperación y el trabajo en equipo son esenciales para alcanzar objetivos ambiciosos y de gran envergadura en cualquier área.",
+    "completed": false
+  },
+  {
+    "id": 227,
+    "text": "La paciencia y la tolerancia son fundamentales para mantener relaciones saludables y productivas en cualquier entorno interpersonal.",
+    "completed": false
+  },
+  {
+    "id": 228,
+    "text": "La creatividad y la imaginación son clave para resolver problemas de manera innovadora y efectiva en cualquier área de la vida.",
+    "completed": false
+  },
+  {
+    "id": 229,
+    "text": "La motivación y el entusiasmo son esenciales para mantener la productividad y el bienestar en cualquier entorno laboral o personal.",
+    "completed": false
+  },
+  {
+    "id": 230,
+    "text": "La honestidad y la transparencia son esenciales para mantener la integridad y la confianza en cualquier relación interpersonal o laboral.",
+    "completed": false
+  },
+
+  {
+    "id": 231,
+    "text": "La empatía y la comprensión son la base para una comunicación efectiva y relaciones saludables en la vida.",
+    "completed": false
+  },
+  {
+    "id": 232,
+    "text": "La perseverancia y la dedicación son fundamentales para lograr nuestras metas y objetivos en cualquier área de la vida.",
+    "completed": false
+  },
+  {
+    "id": 233,
+    "text": "La generosidad y la compasión son clave para construir una sociedad más justa y equitativa para todos.",
+    "completed": false
+  },
+  {
+    "id": 234,
+    "text": "La honestidad y la integridad son valores esenciales para construir relaciones de confianza en cualquier ámbito de la vida.",
+    "completed": false
+  },
+  {
+    "id": 235,
+    "text": "La humildad y el respeto son fundamentales para mantener relaciones saludables y productivas en cualquier entorno interpersonal o laboral.",
+    "completed": false
+  },
+  {
+    "id": 236,
+    "text": "La creatividad y la innovación son clave para resolver problemas de manera efectiva y eficiente en cualquier ámbito de la vida.",
+    "completed": false
+  },
+  {
+    "id": 237,
+    "text": "La resiliencia y la fortaleza son fundamentales para superar los desafíos y dificultades en la vida y en el trabajo.",
+    "completed": false
+  },
+  {
+    "id": 238,
+    "text": "La curiosidad y la exploración son esenciales para el aprendizaje y el descubrimiento en cualquier área de la vida.",
+    "completed": false
+  },
+  {
+    "id": 239,
+    "text": "La tolerancia y el entendimiento son clave para construir relaciones más saludables y respetuosas en la sociedad.",
+    "completed": false
+  },
+  {
+    "id": 240,
+    "text": "La honestidad y la transparencia son fundamentales para mantener la integridad y la confianza en cualquier entorno laboral o personal.",
+    "completed": false
+  },
+
+  {
+    "id": 241,
+    "text": "En Python, la simplicidad y la legibilidad del código son fundamentales para su popularidad y facilidad de uso.",
+    "completed": false
+  },
+  {
+    "id": 242,
+    "text": "En Java, la seguridad y la portabilidad son esenciales para su uso en aplicaciones empresariales y de gran escala.",
+    "completed": false
+  },
+  {
+    "id": 243,
+    "text": "En C++, el rendimiento y la eficiencia son clave para su uso en sistemas de tiempo real y aplicaciones de alto rendimiento.",
+    "completed": false
+  },
+  {
+    "id": 244,
+    "text": "En JavaScript, la versatilidad y la capacidad de adaptación son fundamentales para su uso en el desarrollo web moderno y aplicaciones de front-end.",
+    "completed": false
+  },
+  {
+    "id": 245,
+    "text": "En Ruby, la flexibilidad y la facilidad de uso son esenciales para su uso en el desarrollo web y la creación de aplicaciones de software.",
+    "completed": false
+  },
+  {
+    "id": 246,
+    "text": "En Swift, la seguridad y la facilidad de uso son fundamentales para su uso en el desarrollo de aplicaciones móviles y de escritorio.",
+    "completed": false
+  },
+  {
+    "id": 247,
+    "text": "En PHP, la capacidad de trabajar con bases de datos y la facilidad de integración con HTML son esenciales para su uso en aplicaciones web dinámicas.",
+    "completed": false
+  },
+  {
+    "id": 248,
+    "text": "En Rust, la seguridad y la eficiencia son clave para su uso en sistemas operativos y aplicaciones de bajo nivel.",
+    "completed": false
+  },
+  {
+    "id": 249,
+    "text": "En Go, la simplicidad y la eficiencia son fundamentales para su uso en sistemas de alto rendimiento y aplicaciones distribuidas.",
+    "completed": false
+  },
+  {
+    "id": 250,
+    "text": "En Kotlin, la interoperabilidad con Java y la seguridad son esenciales para su uso en el desarrollo de aplicaciones móviles y de escritorio.",
+    "completed": false
+  }
+]

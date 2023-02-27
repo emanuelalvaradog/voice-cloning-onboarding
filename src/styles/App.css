@@ -1,0 +1,34 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8rem;
+}
+
+.App > h1 {
+  font-size: 4rem;
+}
+
+.onBoarding {
+  width: 80%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+}
+
+.onBoarding h2 {
+  font-weight: 500;
+}
+
+.onBoarding button {
+  padding: 1rem 6rem;
+  border-radius: 0.6rem;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
